@@ -60,7 +60,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "SULTHAN FATHIR",
       subname: "Language Enthusiasts",
       description: "Pushing the boundaries of digital experiences through minimal design and robust code. I specialize in building high-performance web applications with a focus on aesthetics and user experience.",
-      photo: "https://i.imgur.com/tljZUm4.jpeg",
+      photo: "https://i.imgur.com/qY1fNVh.jpeg",
       bio: {
         dob: "November 19, 2007",
         location: "Jakarta, Indonesia",
@@ -119,7 +119,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "SULTHAN FATHIR",
       subname: "Penggemar Bahasa",
       description: "Mendorong batasan pengalaman digital melalui desain minimalis dan kode yang kuat. Saya ahli dalam membangun aplikasi web berperforma tinggi dengan fokus pada estetika dan pengalaman pengguna.",
-      photo: "https://i.imgur.com/tljZUm4.jpeg",
+      photo: "https://i.imgur.com/qY1fNVh.jpeg",
       bio: {
         dob: "19 November 2007",
         location: "Jakarta, Indonesia",
@@ -134,7 +134,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       formal: [
         {
           institution: "SMAS IT Assyifa Boarding School",
-          logo: "https://i.imgur.com/pfcdvTX.png",
+          logo: "",
           specialization: "Sains & Teknologi",
           period: "2023 - sekarang"
         }
@@ -178,7 +178,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "سلطان فاطر",
       subname: "تقني مبدع",
       description: "دفع حدود التجارب الرقمية من خلال التصميم البسيط والكود القوي. أنا متخصص في بناء تطبيقات ويب عالية الإداء مع التركيز على الجماليات وتجربة المستخدم.",
-      photo: "https://i.imgur.com/tljZUm4.jpeg",
+      photo: "https://i.imgur.com/qY1fNVh.jpeg",
       bio: {
         dob: "١٩ نوفمبر ٢٠٠٧ م",
         location: "جاكرتا، إندونيسيا",
@@ -217,7 +217,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
         description: "قيادة تطوير الواجهة الأساسية لمنصة نبيولا للذكاء الاصطناعي."
       }
     ],
-    brandName: "أثير",
+    brandName: "سلطان",
     initials: "SF",
     labels: {
       dob: "تاريخ الميلاد",
