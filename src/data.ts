@@ -60,7 +60,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "SULTHAN FATHIR",
       subname: "Language Enthusiasts",
       description: "Pushing the boundaries of digital experiences through minimal design and robust code. I specialize in building high-performance web applications with a focus on aesthetics and user experience.",
-      photo: "https://i.imgur.com/zwBPnOZ.jpeg",
+      photo: "https://i.imgur.com/tljZUm4.jpeg",
       bio: {
         dob: "November 19, 2007",
         location: "Jakarta, Indonesia",
@@ -119,7 +119,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "SULTHAN FATHIR",
       subname: "Penggemar Bahasa",
       description: "Mendorong batasan pengalaman digital melalui desain minimalis dan kode yang kuat. Saya ahli dalam membangun aplikasi web berperforma tinggi dengan fokus pada estetika dan pengalaman pengguna.",
-      photo: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop",
+      photo: "https://i.imgur.com/tljZUm4.jpeg",
       bio: {
         dob: "19 November 2007",
         location: "Jakarta, Indonesia",
@@ -175,16 +175,16 @@ export const portfolioData: Record<Language, PortfolioData> = {
   },
   ar: {
     profile: {
-      name: "أليكس ريفيرا",
+      name: "سلطان فاطر",
       subname: "تقني مبدع",
       description: "دفع حدود التجارب الرقمية من خلال التصميم البسيط والكود القوي. أنا متخصص في بناء تطبيقات ويب عالية الإداء مع التركيز على الجماليات وتجربة المستخدم.",
-      photo: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop",
+      photo: "https://i.imgur.com/tljZUm4.jpeg",
       bio: {
-        dob: "24 أغسطس 2002",
+        dob: "١٩ نوفمبر ٢٠٠٧ م",
         location: "جاكرتا، إندونيسيا",
         socials: {
           email: "alex.rivera@example.com",
-          instagram: "https://instagram.com/alexrivera",
+          instagram: "https://instagram.com/s.ulthan19",
           linkedin: "https://linkedin.com/in/alexrivera",
         }
       }
