@@ -89,8 +89,8 @@ export const portfolioData: Record<Language, PortfolioData> = {
         }
       ]
     },
-    interests: ["Artificial Intelligence", "Generative Art", "Minimalism", "Photography", "Traveling"],
-    skills: ["React", "TypeScript", "Tailwind CSS", "Node.js", "Figma", "Three.js"],
+    interests: ["Arabic Language", "Literature", "Arts", "Media Creative"],
+    skills: ["Arabic Language", "English Language", "Graphic Design"],
     experience: [
       {
         company: "Nebula Tech",
