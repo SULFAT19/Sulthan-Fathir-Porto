@@ -57,8 +57,8 @@ export interface PortfolioData {
 export const portfolioData: Record<Language, PortfolioData> = {
   en: {
     profile: {
-      name: "ALEX RIVERA",
-      subname: "Creative Technologist",
+      name: "SULTHAN FATHIR",
+      subname: "Language Enthusiasts",
       description: "Pushing the boundaries of digital experiences through minimal design and robust code. I specialize in building high-performance web applications with a focus on aesthetics and user experience.",
       photo: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop",
       bio: {
@@ -66,7 +66,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
         location: "Jakarta, Indonesia",
         socials: {
           email: "alex.rivera@example.com",
-          instagram: "https://instagram.com/alexrivera",
+          instagram: "https://instagram.com/s.ulthan19",
           linkedin: "https://linkedin.com/in/alexrivera",
         }
       }
@@ -74,17 +74,17 @@ export const portfolioData: Record<Language, PortfolioData> = {
     education: {
       formal: [
         {
-          institution: "University of Indonesia",
+          institution: "SMA IT Assyifa Boarding School",
           logo: "https://upload.wikimedia.org/wikipedia/id/thumb/0/09/Logo_Universitas_Indonesia.png/200px-Logo_Universitas_Indonesia.png",
-          specialization: "Computer Science",
-          period: "2020 - 2024"
+          specialization: "Science & Technology",
+          period: "2023 - Now"
         }
       ],
       nonFormal: [
         {
-          institution: "Google UX Design",
+          institution: "Great Learning Academy",
           logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_\"G\"_logo.svg/1200px-Google_\"G\"_logo.svg.png",
-          specialization: "Professional Certificate",
+          specialization: "English Basic For Professional Certification",
           period: "2023"
         }
       ]
