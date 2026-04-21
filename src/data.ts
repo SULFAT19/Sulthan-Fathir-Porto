@@ -60,7 +60,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "SULTHAN FATHIR",
       subname: "Language Enthusiasts",
       description: "Pushing the boundaries of digital experiences through minimal design and robust code. I specialize in building high-performance web applications with a focus on aesthetics and user experience.",
-      photo: "https://github.com/SULFAT19/Sulthan-Fathir-Porto/blob/main/IMG_2240.JPG",
+      photo: "https://drive.google.com/file/d/111XzyTkQ0vZsVrE5VxuAqNGdePutTOAz/view?usp=sharing",
       bio: {
         dob: "November 19, 2007",
         location: "Jakarta, Indonesia",
