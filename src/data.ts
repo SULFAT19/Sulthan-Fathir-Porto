@@ -75,7 +75,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
       formal: [
         {
           institution: "SMA IT Assyifa Boarding School",
-          logo: "https://upload.wikimedia.org/wikipedia/id/thumb/0/09/Logo_Universitas_Indonesia.png/200px-Logo_Universitas_Indonesia.png",
+          logo: "https://i.imgur.com/pfcdvTX.png",
           specialization: "Science & Technology",
           period: "2023 - Now"
         }
@@ -116,16 +116,16 @@ export const portfolioData: Record<Language, PortfolioData> = {
   },
   id: {
     profile: {
-      name: "ALEX RIVERA",
-      subname: "Teknolog Kreatif",
+      name: "SULTHAN FATHIR",
+      subname: "Penggemar Bahasa",
       description: "Mendorong batasan pengalaman digital melalui desain minimalis dan kode yang kuat. Saya ahli dalam membangun aplikasi web berperforma tinggi dengan fokus pada estetika dan pengalaman pengguna.",
       photo: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop",
       bio: {
-        dob: "24 Agustus 2002",
+        dob: "19 November 2007",
         location: "Jakarta, Indonesia",
         socials: {
           email: "alex.rivera@example.com",
-          instagram: "https://instagram.com/alexrivera",
+          instagram: "https://instagram.com/s.ulthan19",
           linkedin: "https://linkedin.com/in/alexrivera",
         }
       }
@@ -133,10 +133,10 @@ export const portfolioData: Record<Language, PortfolioData> = {
     education: {
       formal: [
         {
-          institution: "Universitas Indonesia",
-          logo: "https://upload.wikimedia.org/wikipedia/id/thumb/0/09/Logo_Universitas_Indonesia.png/200px-Logo_Universitas_Indonesia.png",
-          specialization: "Ilmu Komputer",
-          period: "2020 - 2024"
+          institution: "SMAS IT Assyifa Boarding School",
+          logo: "https://i.imgur.com/pfcdvTX.png",
+          specialization: "Sains & Teknologi",
+          period: "2023 - sekarang"
         }
       ],
       nonFormal: [
