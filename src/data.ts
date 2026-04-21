@@ -60,14 +60,14 @@ export const portfolioData: Record<Language, PortfolioData> = {
       name: "SULTHAN FATHIR",
       subname: "Language Enthusiasts",
       description: "Pushing the boundaries of digital experiences through minimal design and robust code. I specialize in building high-performance web applications with a focus on aesthetics and user experience.",
-      photo: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1000&auto=format&fit=crop",
+      photo: "https://drive.google.com/uc?export=view&id=111XzyTkQ0vZsVrE5VxuAqNGdePutTOAz",
       bio: {
-        dob: "August 24, 2002",
+        dob: "November 19, 2007",
         location: "Jakarta, Indonesia",
         socials: {
-          email: "alex.rivera@example.com",
+          email: "mailto:hellohi.sulthan@gmail.com",
           instagram: "https://instagram.com/s.ulthan19",
-          linkedin: "https://linkedin.com/in/alexrivera",
+          linkedin: "https://www.linkedin.com/in/sulthan-fathir-al-hafizh/",
         }
       }
     },
@@ -99,7 +99,7 @@ export const portfolioData: Record<Language, PortfolioData> = {
         description: "Leading the development of the core interface for the Nebula AI platform."
       }
     ],
-    brandName: "AETHER",
+    brandName: "SULTHAN",
     initials: "SF",
     labels: {
       dob: "Date of Birth",
